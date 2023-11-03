@@ -1,0 +1,482 @@
+{
+	"BruteForce": [
+		{
+			"question": "What is the Brute Force Algorithm?",
+			"answers": ["A straightforward and exhaustive search algorithm", "A clever optimization algorithm", "A machine learning technique", "An encryption method"],
+			"correctAnswer": "A straightforward and exhaustive search algorithm"
+		},
+		{
+			"question": "In which type of problems is the Brute Force Algorithm commonly used?",
+			"answers": ["Combinatorial problems", "Weather forecasting", "Speech recognition", "Social networking"],
+			"correctAnswer": "Combinatorial problems"
+		},
+		{
+			"question": "How does the Brute Force Algorithm work?",
+			"answers": ["It tries all possible solutions systematically", "It relies on machine learning models", "It uses heuristics to find solutions quickly", "It only considers the first solution it finds"],
+			"correctAnswer": "It tries all possible solutions systematically"
+		},
+		{
+			"question": "What is a potential drawback of the Brute Force Algorithm?",
+			"answers": ["It can be very slow for large problem instances", "It always finds the optimal solution", "It requires minimal computational resources", "It can solve any type of problem"],
+			"correctAnswer": "It can be very slow for large problem instances"
+		},
+		{
+			"question": "When is the Brute Force Algorithm a good choice for problem-solving?",
+			"answers": ["When the problem size is small and manageable", "When computational resources are unlimited", "When speed is not a concern", "When the problem is unsolvable"],
+			"correctAnswer": "When the problem size is small and manageable"
+		},
+		{
+			"question": "What is the time complexity of the Brute Force Algorithm?",
+			"answers": ["Exponential", "Constant", "Linear", "Logarithmic"],
+			"correctAnswer": "Exponential"
+		},
+		{
+			"question": "Which field of computer science often employs the Brute Force Algorithm?",
+			"answers": ["Cryptography", "Artificial Intelligence", "Robotics", "Quantum computing"],
+			"correctAnswer": "Cryptography"
+		},
+		{
+			"question": "What is the primary advantage of the Brute Force Algorithm?",
+			"answers": ["It guarantees a solution if one exists", "It is always the fastest algorithm", "It requires no programming skills", "It works well for all problem sizes"],
+			"correctAnswer": "It guarantees a solution if one exists"
+		},
+		{
+			"question": "What is the main limitation of the Brute Force Algorithm?",
+			"answers": ["It is not efficient for large problem spaces", "It can only handle simple problems", "It cannot be used in parallel computing", "It is a recent development in computer science"],
+			"correctAnswer": "It is not efficient for large problem spaces"
+		},
+		{
+			"question": "What is an example of a problem where the Brute Force Algorithm is commonly used?",
+			"answers": ["Traveling Salesman Problem", "Weather prediction", "Machine learning", "Social media analysis"],
+			"correctAnswer": "Traveling Salesman Problem"
+		}
+	],
+	"dawtalttai": [
+		{
+			"question": "What is the name of the clown in the movie \"It\"?",
+			"answers": ["Pennywise", "Bozo", "Krusty", "Joker"],
+			"correctAnswer": "Pennywise"
+		},
+		{
+			"question": "What is the name of the fictional continent where the events of the TV series \"Game of Thrones\" take place?",
+			"answers": ["Westeros", "Essos", "Sothoryos", "Ulthos"],
+			"correctAnswer": "Westeros"
+		},
+		{
+			"question": "Who played the role of Batman in the 2008 movie \"The Dark Knight\"?",
+			"answers": [
+				"Christian Bale",
+				"Ben Affleck",
+				"George Clooney",
+				"Val Kilmer"
+			],
+			"correctAnswer": "Christian Bale"
+		},
+		{
+			"question": "What is the name of the fairy in the Disney movie \"Peter Pan\"?",
+			"answers": ["Tinker Bell", "Wendy", "Vidia", "Navi"],
+			"correctAnswer": "Tinker Bell"
+		},
+		{
+			"question": "What is the name of the tiger that appears in the movie \"Life of Pi\"?",
+			"answers": ["Richard Parker", "Tony", "Shere Khan", "Pi Patel"],
+			"correctAnswer": "Richard Parker"
+		},
+		{
+			"question": "Who wrote the novel \"One Hundred Years of Solitude\"?",
+			"answers": [
+				"Gabriel García Márquez",
+				"Jorge Luis Borges",
+				"Isabel Allende",
+				"Octavio Paz"
+			],
+			"correctAnswer": "Gabriel García Márquez"
+		},
+		{
+			"question": "Which of these is not a race or species in the video game \"World of Warcraft\"?",
+			"answers": ["Kokiri", "Undead", "Huargen", "Troll"],
+			"correctAnswer": "Kokiri"
+		},
+		{
+			"question": "How does Alice wane for the first time in the Disney movie \"Alice in Wonderland\"?",
+			"answers": [
+				"She drinks a potion",
+				"She eats a cake",
+				"She falls down a hole",
+				"She walks through a mirror"
+			],
+			"correctAnswer": "She drinks a potion"
+		},
+		{
+			"question": "Who is the owner of Garfield in the comic strip \"Garfield\"?",
+			"answers": ["Jon Arbuckle", "Odie", "Nermal", "Liz Wilson"],
+			"correctAnswer": "Jon Arbuckle"
+		},
+		{
+			"question": "In which of these animes does the main character carry his sister in a box?",
+			"answers": [
+				"Kimetsu no Yaiba",
+				"Elfen Lied",
+				"Code Geass",
+				"Made in Abyss"
+			],
+			"correctAnswer": "Kimetsu no Yaiba"
+		},
+		{
+			"question": "Where is the weak point of the titans in the anime \"Attack on Titan\"?",
+			"answers": ["Nape", "Head", "Heart", "Back"],
+			"correctAnswer": "Nape"
+		},
+		{
+			"question": "How many puppies does Perdita give birth to in the Disney movie \"101 Dalmatians\"?",
+			"answers": ["15", "101", "99", "8"],
+			"correctAnswer": "15"
+		},
+		{
+			"question": "How many dragon balls are there in the anime \"Dragon Ball\"?",
+			"answers": ["7", "8", "6", "12"],
+			"correctAnswer": "7"
+		},
+		{
+			"question": "In which of these movies are there aliens?",
+			"answers": [
+				"The Great Wall",
+				"Big Heroes 6",
+				"Duplicity",
+				"Braveheart"
+			],
+			"correctAnswer": "The Great Wall"
+		},
+		{
+			"question": "What is the name of Misa Amane's shinigami in the anime \"Death Note\"?",
+			"answers": ["Rem", "Ryuk", "Sidoh", "Gelus"],
+			"correctAnswer": "Rem"
+		}
+	],
+	"salaalsan": [
+		{
+			"question": "What is the capital city of Australia?",
+			"answers": ["Sydney", "Melbourne", "Canberra", "Brisbane"],
+			"correctAnswer": "Canberra"
+		},
+		{
+			"question": "How many stars appear on the flag of the People's Republic of China?",
+			"answers": ["4", "5", "6", "3"],
+			"correctAnswer": "5"
+		},
+		{
+			"question": "What continent is Saudi Arabia on?",
+			"answers": ["Asia", "Africa", "Europe", "South America"],
+			"correctAnswer": "Asia"
+		},
+		{
+			"question": "What is the name of the official language in China?",
+			"answers": ["Mandarin", "Cantonese", "Hokkien", "Hakka"],
+			"correctAnswer": "Mandarin"
+		},
+		{
+			"question": "Which of these European countries is further west?",
+			"answers": ["Spain", "Italy", "Greece", "Germany"],
+			"correctAnswer": "Spain"
+		},
+		{
+			"question": "How many oceans are there on Earth?",
+			"answers": ["5", "6", "7", "8"],
+			"correctAnswer": "5"
+		},
+		{
+			"question": "What is the capital of Colombia?",
+			"answers": ["Bogotá", "Medellín", "Cali", "Barranquilla"],
+			"correctAnswer": "Bogotá"
+		},
+		{
+			"question": "Which country is the smallest in the world",
+			"answers": ["Vatican City", "Monaco", "Nauru", "Tuvalu"],
+			"correctAnswer": "Vatican City"
+		},
+		{
+			"question": "What is the largest country in Africa by land area?",
+			"answers": ["Algeria", "Sudan", "Libya", "Congo"],
+			"correctAnswer": "Algeria"
+		},
+		{
+			"question": "What is the highest mountain in America?",
+			"answers": [
+				"Mount Denali",
+				"Mount Logan",
+				"Mount Saint Elias",
+				"Pico de Orizaba"
+			],
+			"correctAnswer": "Mount Denali"
+		},
+		{
+			"question": "Which city is located both in Europe and Asia?",
+			"answers": ["Istanbul", "Moscow", "Kiev", "Nicosia"],
+			"correctAnswer": "Istanbul"
+		},
+		{
+			"question": "What is the name of the world's largest reef system, located in Australia?",
+			"answers": [
+				"Great Barrier Reef",
+				"Belize Barrier Reef",
+				"Mesoamerican Barrier Reef",
+				"Andros Barrier Reef"
+			],
+			"correctAnswer": "Great Barrier Reef"
+		},
+		{
+			"question": "Which river is the longest in the world?",
+			"answers": ["Nile", "Amazon", "Yangtze", "Mississippi"],
+			"correctAnswer": "Nile"
+		},
+		{
+			"question": "Which country is the largest by land area?",
+			"answers": ["Russia", "Canada", "China", "United States"],
+			"correctAnswer": "Russia"
+		},
+		{
+			"question": "How many states are part of the United States?",
+			"answers": ["50", "51", "48", "53"],
+			"correctAnswer": "50"
+		},
+		{
+			"question": "Which of these countries is not in Europe?",
+			"answers": ["Georgia", "Moldova", "Armenia", "Azerbaijan"],
+			"correctAnswer": "Armenia"
+		},
+		{
+			"question": "What is the official currency of India?",
+			"answers": ["Rupee", "Ruble", "Rial", "Real"],
+			"correctAnswer": "Rupee"
+		},
+		{
+			"question": "In which country is Mount Everest located?",
+			"answers": ["Nepal", "China", "India", "Pakistan"],
+			"correctAnswer": "Nepal"
+		}
+	],
+	"buleg4": [
+		{
+			"question": "What is the chemical symbol for gold?",
+			"answers": ["Au", "Ag", "Cu", "Fe"],
+			"correctAnswer": "Au"
+		},
+		{
+			"question": "What is the triangle that has three equal sides called?",
+			"answers": ["Equilateral", "Isosceles", "Scalene", "Right"],
+			"correctAnswer": "Equilateral"
+		},
+		{
+			"question": "What is an oviparous?",
+			"answers": [
+				"An animal that lays eggs",
+				"An animal that gives birth",
+				"An animal that flies",
+				"An animal that lives in the water"
+			],
+			"correctAnswer": "An animal that lays eggs"
+		},
+		{
+			"question": "Cartography is the study of what?",
+			"answers": ["Maps", "Cars", "Cats", "Carpets"],
+			"correctAnswer": "Maps"
+		},
+		{
+			"question": "If 50 is 100%, what is 90%?",
+			"answers": ["45", "10", "100", "50"],
+			"correctAnswer": "45"
+		},
+		{
+			"question": "How many legs does a fly have?",
+			"answers": ["6", "4", "8", "2"],
+			"correctAnswer": "6"
+		},
+		{
+			"question": "What is the smallest unit of matter?",
+			"answers": ["Atom", "Molecule", "Cell", "Electron"],
+			"correctAnswer": "Atom"
+		},
+		{
+			"question": "What element do all acids contain?",
+			"answers": ["Hydrogen", "Oxygen", "Helium", "Nitrogen"],
+			"correctAnswer": "Hydrogen"
+		},
+		{
+			"question": "What is the name of the process by which plants convert sunlight into energy?",
+			"answers": [
+				"Photosynthesis",
+				"Respiration",
+				"Digestion",
+				"Fermentation"
+			],
+			"correctAnswer": "Photosynthesis"
+		},
+		{
+			"question": "What is the name of the force that pulls objects toward each other?",
+			"answers": ["Gravity", "Magnetism", "Friction", "Electricity"],
+			"correctAnswer": "Gravity"
+		},
+		{
+			"question": "What is the metal found in the center of the earth?",
+			"answers": ["Iron", "Nickel", "Copper", "Zinc"],
+			"correctAnswer": "Iron"
+		},
+		{
+			"question": "What are diamonds made of?",
+			"answers": ["Carbon", "Glass", "Silver", "Platinum"],
+			"correctAnswer": "Carbon"
+		},
+		{
+			"question": "What is the name of the process by which a solid turns into a gas without passing through the liquid state?",
+			"answers": [
+				"Sublimation",
+				"Evaporation",
+				"Condensation",
+				"Freezing"
+			],
+			"correctAnswer": "Sublimation"
+		},
+		{
+			"question": "What is the name of the protein that gives skin, hair, and nails their strength?",
+			"answers": ["Keratin", "Collagen", "Elastin", "Myosin"],
+			"correctAnswer": "Keratin"
+		},
+		{
+			"question": "How many chemical elements are there on the periodic table?",
+			"answers": ["118", "92", "104", "113"],
+			"correctAnswer": "118"
+		},
+		{
+			"question": "What is the first element on the periodic table?",
+			"answers": ["Hydrogen", "Helium", "Lithium", "Oxygen"],
+			"correctAnswer": "Hydrogen"
+		},
+		{
+			"question": "What vitamin can be synthesized when exposed to sunlight?",
+			"answers": ["Vitamin D", "Vitamin A", "Vitamin C", "Vitamin E"],
+			"correctAnswer": "Vitamin D"
+		},
+		{
+			"question": "Every how many years does Halley's Comet pass the earth?",
+			"answers": ["75", "86", "96", "106"],
+			"correctAnswer": "75"
+		},
+		{
+			"question": "What is the only even prime number?",
+			"answers": ["2", "14", "6", "8"],
+			"correctAnswer": "2"
+		},
+		{
+			"question": "-3 + 10 ÷ 2",
+			"answers": ["2", "1", "4", "3.5"],
+			"correctAnswer": "2"
+		},
+		{
+			"question": "What does the gallon measure?",
+			"answers": ["Volume", "Weight", "Distance", "Time"],
+			"correctAnswer": "Volume"
+		},
+		{
+			"question": "What does the newton measure?",
+			"answers": ["Force", "Weight", "Distance", "Time"],
+			"correctAnswer": "Force"
+		}
+	],
+	"Technology": [
+		{
+			"question": "Which company developed the programming language Java?",
+			"answers": ["Sun Microsystems", "Microsoft", "Apple", "IBM"],
+			"correctAnswer": "Sun Microsystems"
+		},
+		{
+			"question": "How many bits is a byte?",
+			"answers": ["8", "4", "16", "32"],
+			"correctAnswer": "8"
+		},
+		{
+			"question": "How many megabytes is a gigabyte?",
+			"answers": [
+				"1024",
+				"1000",
+				"100",
+				"Depends on the size of the file"
+			],
+			"correctAnswer": "1024"
+		},
+		{
+			"question": "What is the name of the open-source operating system based on the Linux kernel?",
+			"answers": ["Ubuntu", "Windows", "macOS", "Android"],
+			"correctAnswer": "Ubuntu"
+		},
+		{
+			"question": "What is the name of the first computer?",
+			"answers": ["ENIAC", "UNIVAC I", "Z1", "Colossus"],
+			"correctAnswer": "ENIAC"
+		},
+		{
+			"question": "What is the name of the web browser developed by Google?",
+			"answers": ["Chrome", "Firefox", "Safari", "Opera"],
+			"correctAnswer": "Chrome"
+		},
+		{
+			"question": "What is the name of the programming language used to create web pages?",
+			"answers": ["JavaScript", "CSS", "PhP", "Python"],
+			"correctAnswer": "JavaScript"
+		},
+		{
+			"question": "The \".WAV\" is a format of?",
+			"answers": ["Audio", "Video", "Image", "Document"],
+			"correctAnswer": "Audio"
+		},
+		{
+			"question": "What is the name of the first computer virus?",
+			"answers": ["Creeper", "Elk Cloner", "Rabbit", "Stoned"],
+			"correctAnswer": "Creeper"
+		},
+		{
+			"question": "How many laws of robotics (or Asimov's laws) are there?",
+			"answers": ["3", "4", "2", "6"],
+			"correctAnswer": "3"
+		},
+		{
+			"question": "What is the name of the first video game console?",
+			"answers": [
+				"Magnavox Odyssey",
+				"Atari 2600",
+				"Nintendo Entertainment System",
+				"Sega Genesis"
+			],
+			"correctAnswer": "Magnavox Odyssey"
+		},
+		{
+			"question": "What is the best-selling video game in history?",
+			"answers": [
+				"Minecraft",
+				"Tetris",
+				"Wii Sports",
+				"Grand Theft Auto V"
+			],
+			"correctAnswer": "Minecraft"
+		},
+		{
+			"question": "What color are the pigs in the video game \"Angry Birds\"?",
+			"answers": ["Green", "Red", "Yellow", "Blue"],
+			"correctAnswer": "Green"
+		},
+		{
+			"question": "Which of these is not a champion in the video game \"League of Legends\"?",
+			"answers": ["Gang-il", "Ahri", "Teemo", "Ryze"],
+			"correctAnswer": "Gang-il"
+		},
+		{
+			"question": "How many points do the grapes give in the video game \"Pacman\"?",
+			"answers": ["1000", "700", "100", "400"],
+			"correctAnswer": "1000"
+		},
+		{
+			"question": "What is the name of the main character in the video game \"The Legend of Zelda\"?",
+			"answers": ["Link", "Zelda", "Ganon", "Ganondorf"],
+			"correctAnswer": "Link"
+		}
+	]
+}
